@@ -1,0 +1,33 @@
+{
+  "timestamp": "2026-11-08T13:02:10Z",
+  "total_discovered": 274,
+  "total_ingested_chunks": 300,
+  "total_duplicates": 0,
+  "total_failures": 0,
+  "collections": {
+    "acts_statutes": {
+      "discovered": 16,
+      "ingested": 16,
+      "duplicates": 0,
+      "failures": 0
+    },
+    "rules_regulations": {
+      "discovered": 2,
+      "ingested": 2,
+      "duplicates": 0,
+      "failures": 0
+    },
+    "court_judgments": {
+      "discovered": 29,
+      "ingested": 29,
+      "duplicates": 0,
+      "failures": 0
+    },
+    "legal_faqs": {
+      "discovered": 227,
+      "ingested": 253,
+      "duplicates": 0,
+      "failures": 0
+    }
+  }
+}

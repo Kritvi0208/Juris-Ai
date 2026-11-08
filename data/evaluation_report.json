@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-11-08T13:09:39Z",
+  "total_tested": 10,
+  "total_passed": 10,
+  "pass_rate": "100%",
+  "scenarios": [
+    {
+      "name": "Scenario 1: Rental Security Deposit Refund",
+      "passed": true
+    },
+    {
+      "name": "Scenario 2: Consumer Refund & Defective Product",
+      "passed": true
+    },
+    {
+      "name": "Scenario 3: Employer Withholding Salary",
+      "passed": true
+    },
+    {
+      "name": "Scenario 4: Fabricated Section Refutation",
+      "passed": true
+    },
+    {
+      "name": "Scenario 5: Outdated & Repealed Law Detection",
+      "passed": true
+    },
+    {
+      "name": "Scenario 6: Incorrect Jurisdiction Detection",
+      "passed": true
+    },
+    {
+      "name": "Scenario 7: Contradictory Facts & Dates Detection",
+      "passed": true
+    },
+    {
+      "name": "Scenario 8: Insufficient Evidence Handling",
+      "passed": true
+    },
+    {
+      "name": "Scenario 9: Urgent Court / Arrest Emergency Escalation",
+      "passed": true
+    },
+    {
+      "name": "Scenario 10: Legal Notice Generation & Factual Consistency",
+      "passed": true
+    }
+  ]
+}

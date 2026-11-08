@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+.env
+
+# Vector Database, Caches & Heavy Data
+chroma_db/
+data/extracted/
+data/raw/
+data/cleaned/
+data/tokenized/
+data/splits/
+data/user_cases/
+*.db
+*.sqlite3
+
+# Logs & temporary files
+*.log
+*.zip
+scratch/
+data_report.txt
+sample_xml.txt
+inspect_data.py
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Documentation builds
+docs/_build/
+site/
+
+# Testing & Coverage
+.coverage
+htmlcov/
+.pytest_cache/
